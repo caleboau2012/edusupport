@@ -1,0 +1,1360 @@
+11/11/15 18:10:20 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:10:42 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:10:48 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:16:01 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:16:13 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:20:43 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:21:24 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 gl4sm2897971wjd.17 - gsmtp
+ 
+11/11/15 18:21:24 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/11/15 18:21:46 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 hk1sm10002142wjb.6 - gsmtp
+ 
+11/11/15 18:21:46 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/11/15 18:23:02 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:23:09 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 r9sm9989459wjz.35 - gsmtp
+ 
+11/11/15 18:23:10 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/11/15 18:28:00 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:41:59 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:42:09 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:50:04 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:50:09 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:50:18 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:50:29 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:50:40 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:50:55 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:51:14 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:51:32 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:51:33 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:51:50 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:52:00 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:52:11 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:52:16 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:52:22 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:52:29 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:52:32 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:53:19 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:53:34 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:53:38 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_Processed', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:53:41 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:53:48 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:54:28 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:57:07 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:57:56 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:58:05 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:58:06 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 q3sm10126437wjr.34 - gsmtp
+ 
+11/11/15 18:58:06 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:08 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 cr5sm10131368wjb.16 - gsmtp
+ 
+11/11/15 18:58:08 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:10 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 jt9sm10148327wjc.24 - gsmtp
+ 
+11/11/15 18:58:10 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:12 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 at4sm10156681wjc.9 - gsmtp
+ 
+11/11/15 18:58:12 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:15 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 t194sm10780233wmt.11 - gsmtp
+ 
+11/11/15 18:58:15 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:17 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 l81sm10747257wmb.2 - gsmtp
+ 
+11/11/15 18:58:17 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:19 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 h198sm10726176wmd.9 - gsmtp
+ 
+11/11/15 18:58:19 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:20 [1036][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:58:21 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 bh5sm10127576wjb.42 - gsmtp
+ 
+11/11/15 18:58:21 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:23 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 i18sm10732672wmf.6 - gsmtp
+ 
+11/11/15 18:58:23 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:25 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 s189sm8118250wmf.16 - gsmtp
+ 
+11/11/15 18:58:25 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:27 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 bf8sm10139692wjc.22 - gsmtp
+ 
+11/11/15 18:58:27 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:29 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 q1sm10124386wje.39 - gsmtp
+ 
+11/11/15 18:58:29 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:31 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR:Password not accepted from server. Code: 535 Reply: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/answer/14257 184sm10730898wmk.10 - gsmtp
+ 
+11/11/15 18:58:31 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: support.edutechng.com
+11/11/15 18:58:32 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:58:35 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:58:59 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:59:14 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:59:24 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:59:29 [9436][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 18:59:38 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:00:03 [14532][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:00:37 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:00:59 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:01:21 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:01:32 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:02:17 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:02:54 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:03:04 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('EmailMan', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:03:38 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:03:48 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:03:51 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:03:59 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:04:15 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_Processed', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:04:26 [16228][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:17:18 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Schedulers', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 19:30:18 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Schedulers', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:20:05 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:20:26 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:20:36 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:20:37 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:20:43 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:21:05 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:21:11 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:21:21 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:21:32 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:21:47 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:22:05 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:23:36 [17828][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:23:45 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_Processed', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 21:24:09 [20684][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_Processed', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:27:47 [20840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:28:00 [20840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:37:50 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:37:56 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:42:04 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:44:57 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:57 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/11/15 23:44:58 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/11/15 23:45:01 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:45:36 [21288][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/11/15 23:45:52 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/11/15 23:45:53 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:46:02 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:46:14 [15052][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:46:16 [15052][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:46:26 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:46:28 [8048][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:46:38 [15328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/11/15 23:47:25 [21288][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+

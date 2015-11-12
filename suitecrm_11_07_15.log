@@ -1,0 +1,235 @@
+11/07/15 10:32:28 [13828][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 10:32:28 [13828][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: ife.oladele@edutechng.com
+11/07/15 10:32:28 [13828][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ife.oladele@edutechng.com)
+11/07/15 10:32:30 [13828][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 10:32:30 [13828][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 10:48:00 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 10:48:00 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 10:48:00 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 10:48:02 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 10:48:02 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:00:02 [13828][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:00:02 [13828][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 11:00:02 [13828][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 11:00:05 [13828][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:00:05 [13828][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:10 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:10 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:12 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:12 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:15 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:15 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:18 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:18 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:21 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:21 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:23 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:23 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:26 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:26 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:29 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:29 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:31 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:31 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:34 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:34 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:12:37 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:12:37 [2248][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:47:33 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:47:33 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: ife.oladele@edutechng.com
+11/07/15 11:47:33 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ife.oladele@edutechng.com)
+11/07/15 11:55:42 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:55:42 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:55:45 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:55:45 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:55:48 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:55:48 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:55:51 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:55:51 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:55:53 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:55:53 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:55:56 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:55:56 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:55:59 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:55:59 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:56:02 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:56:02 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:56:04 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:56:04 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:56:07 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:56:07 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:56:10 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:56:10 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:56:12 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:56:12 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 11:56:15 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 11:56:15 [10700][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:05:17 [11572][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:05:17 [11572][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: ife.oladele@edutechng.com
+11/07/15 12:05:17 [11572][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ife.oladele@edutechng.com)
+11/07/15 12:05:19 [11572][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:05:19 [11572][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:28:08 [10660][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:28:08 [10660][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:43:25 [10660][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:43:25 [10660][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 12:43:25 [10660][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 12:43:27 [10660][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:43:27 [10660][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:43:50 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:43:50 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:43:53 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:43:53 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:43:55 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:43:55 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:43:58 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:43:58 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:00 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:00 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:03 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:03 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:05 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:05 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:08 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:08 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:10 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:10 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:13 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:13 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:15 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:15 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:17 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:17 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:44:20 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:44:20 [8936][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:48:27 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:48:27 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 12:48:27 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 12:48:30 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:48:30 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:56:13 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:56:13 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 12:56:13 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 12:56:16 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:56:16 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 12:58:25 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 12:58:25 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 12:58:25 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 13:04:09 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 13:04:09 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 13:04:09 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 13:04:11 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 13:04:11 [8936][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 13:13:48 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 13:13:48 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 13:13:48 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 13:13:51 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 13:13:51 [10972][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 13:56:24 [4468][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 13:56:24 [4468][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: ife.oladele@edutechng.com
+11/07/15 13:56:24 [4468][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ife.oladele@edutechng.com)
+11/07/15 13:56:27 [4468][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 13:56:27 [4468][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 16:18:55 [14448][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 16:18:55 [14448][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: adesorioyegloria@yahoo.com
+11/07/15 16:18:55 [14448][953ade77-ed63-d88f-925f-56333632c123][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: adesorioyegloria@yahoo.com)
+11/07/15 16:18:57 [14448][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 16:18:57 [14448][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 16:19:37 [14448][953ade77-ed63-d88f-925f-56333632c123][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 16:19:37 [14448][953ade77-ed63-d88f-925f-56333632c123][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:18:58 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:18:58 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:01 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:01 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:03 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:03 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:06 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:06 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:09 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:09 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:12 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:12 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:14 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:14 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:17 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:17 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:20 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:20 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:22 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:22 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/07/15 17:19:25 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/07/15 17:19:25 [10040][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com

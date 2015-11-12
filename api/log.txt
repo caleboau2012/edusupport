@@ -1,0 +1,20 @@
+1447338471Array
+(
+    [page_id] => c424d059-c8dd-43df-b612-e49fe7bac0d5
+    [page_name] => Jambites
+    [variant] => a
+    [page_url] => http://register.online.oaucdl.edu.ng/
+    [data_json] => {"first_name":["TOSIN"],"last_name":["OLAFUSI"],"email_address":["toska4uall0913@gmail.com"],"phone_number":["08165621450"],"how_did_you_hear_about_us":["Facebook"],"other":[""],"ip_address":["41.220.68.242"],"time_submitted":["02:28 PM UTC"],"date_submitted":["2015-11-12"]}
+    [data_xml] => <?xml version='1.0'?>
+<form_data>
+  <first_name>TOSIN</first_name>
+  <last_name>OLAFUSI</last_name>
+  <email_address>toska4uall0913@gmail.com</email_address>
+  <phone_number>08165621450</phone_number>
+  <how_did_you_hear_about_us>Facebook</how_did_you_hear_about_us>
+  <other></other>
+  <ip_address>41.220.68.242</ip_address>
+  <time_submitted>02:28 PM UTC</time_submitted>
+  <date_submitted>2015-11-12</date_submitted>
+</form_data>
+)

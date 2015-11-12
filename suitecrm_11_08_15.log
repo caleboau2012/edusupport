@@ -1,0 +1,1010 @@
+11/08/15 12:27:35 [12640][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(112)
+#0 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\fetch_verified_numbers.php(22): rolus_Twilio_Account_sugar->getClient()
+#1 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\index.php(32): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(716): require_once('C:\\inetpub\\wwwr...')
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/rolus_T...')
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(143): ViewClassic->display()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:27:35 [12640][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\fetch_verified_numbers.php(24)
+#0 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\index.php(32): require_once()
+#1 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(716): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/rolus_T...')
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(143): ViewClassic->display()
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 12:27:35 [12640][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(112)
+#0 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\fetch_usage_records.php(21): rolus_Twilio_Account_sugar->getClient()
+#1 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\index.php(38): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(716): require_once('C:\\inetpub\\wwwr...')
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/rolus_T...')
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(143): ViewClassic->display()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:27:35 [12640][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\fetch_usage_records.php(23)
+#0 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\index.php(38): require_once()
+#1 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(716): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/rolus_T...')
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(143): ViewClassic->display()
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 12:32:53 [15640][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(152)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(15): rolus_Twilio_Account_sugar->getCapability()
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:32:53 [15640][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(17)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once()
+#1 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 12:34:48 [12640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(152)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(15): rolus_Twilio_Account_sugar->getCapability()
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:34:48 [12640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(17)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once()
+#1 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 12:34:52 [12640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(152)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(15): rolus_Twilio_Account_sugar->getCapability()
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:34:52 [12640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(17)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once()
+#1 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 12:35:50 [15640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(152)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(15): rolus_Twilio_Account_sugar->getCapability()
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:35:50 [15640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(17)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once()
+#1 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Users', 'after_ui_frame')
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 12:36:24 [15640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(112)
+#0 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\fetch_verified_numbers.php(22): rolus_Twilio_Account_sugar->getClient()
+#1 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\index.php(32): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(716): require_once('C:\\inetpub\\wwwr...')
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/rolus_T...')
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(143): ViewClassic->display()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:36:24 [15640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\fetch_verified_numbers.php(24)
+#0 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\index.php(32): require_once()
+#1 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(716): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/rolus_T...')
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(143): ViewClassic->display()
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 12:36:24 [15640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(112)
+#0 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\fetch_usage_records.php(21): rolus_Twilio_Account_sugar->getClient()
+#1 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\index.php(38): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(716): require_once('C:\\inetpub\\wwwr...')
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/rolus_T...')
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(143): ViewClassic->display()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:36:24 [15640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\fetch_usage_records.php(23)
+#0 C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\index.php(38): require_once()
+#1 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(716): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\MVC\View\views\view.classic.php(74): SugarView->includeClassicFile('modules/rolus_T...')
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(143): ViewClassic->display()
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 12:36:24 [15640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Data missing')
+settingsException 'Data missing' in C:\inetpub\wwwroot\crm\modules\rolus_Twilio_Account\rolus_Twilio_Account_sugar.php(152)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(15): rolus_Twilio_Account_sugar->getCapability()
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('rolus_Twilio_Ac...', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 12:36:24 [15640][9096abdc-569f-c5d1-dc5a-563f322c9285][FATAL] Caught settingsException ('Cannot connect to Twilio')
+settingsException 'Cannot connect to Twilio' in C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(17)
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once()
+#1 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('rolus_Twilio_Ac...', 'after_ui_frame')
+#4 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#6 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#7 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#8 {main}
+
+11/08/15 13:44:24 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:45:14 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:45:15 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:45:15 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:45:30 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:45:35 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:45:37 [10132][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:45:51 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:46:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:46:33 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:46:55 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:47:08 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:47:27 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:47:51 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:48:18 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:48:41 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:52:20 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:52:56 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOW_WorkFlow', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:54:19 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Accounts', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:54:48 [10132][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('Leads', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:56:42 [10132][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:56:55 [10132][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:57:02 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:57:10 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:57:11 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:57:52 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:58:21 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:58:31 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 13:59:52 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 13:59:52 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 13:59:55 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 14:00:22 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 14:00:50 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 14:01:13 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 14:01:48 [10132][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 14:01:54 [4024][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Caught Exception ('Only alphanumeric characters allowed in client name.')
+exception 'InvalidArgumentException' with message 'Only alphanumeric characters allowed in client name.' in C:\inetpub\wwwroot\crm\custom\include\twilio\Services\Twilio\Capability.php:46
+Stack trace:
+#0 C:\inetpub\wwwroot\crm\custom\modules\Calls\IncomingCallConfig.php(19): Services_Twilio_Capability->allowClientIncoming('tolu.ojo')
+#1 C:\inetpub\wwwroot\crm\custom\modules\Calls\HandleIncomingCalls.php(24): require_once('C:\\inetpub\\wwwr...')
+#2 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(249): HandleIncomingCalls->makeIncomingCalls('after_ui_frame', NULL)
+#3 C:\inetpub\wwwroot\crm\include\utils\LogicHook.php(189): LogicHook->process_hooks(Array, 'after_ui_frame', NULL)
+#4 C:\inetpub\wwwroot\crm\include\MVC\View\SugarView.php(145): LogicHook->call_custom_logic('AOR_Reports', 'after_ui_frame')
+#5 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(348): SugarView->process()
+#6 C:\inetpub\wwwroot\crm\include\MVC\Controller\SugarController.php(295): SugarController->processView()
+#7 C:\inetpub\wwwroot\crm\include\MVC\SugarApplication.php(92): SugarController->execute()
+#8 C:\inetpub\wwwroot\crm\index.php(49): SugarApplication->execute()
+#9 {main}
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:09:20 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:10:08 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:10:08 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:10:08 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:10:08 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:10:08 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:10:08 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:15:08 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:42 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:43 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:43 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:43 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:43 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:20:43 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:20:43 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:20:43 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:21:43 [13552][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:21:43 [13552][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:21:53 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:21:53 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:21:53 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:21:53 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:21:53 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:21:53 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:22:06 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:06 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:11 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:22:51 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:22:51 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:23:21 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:23:21 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:23:46 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:23:46 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:23:53 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:23:53 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:24:02 [7236][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:24:02 [7236][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:24:35 [7236][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:24:35 [7236][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:24:45 [7236][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:24:45 [7236][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:25:09 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:25:09 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:25:16 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:25:16 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:32:15 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:32:15 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:32:50 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:32:50 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:32:56 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:32:56 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:33:01 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:33:01 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:33:31 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:33:31 [15012][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:33:38 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:33:38 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:33:45 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:33:45 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:46:44 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:48:13 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:48:13 [13680][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:49:17 [11612][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:52:06 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/08/15 14:52:06 [15932][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports

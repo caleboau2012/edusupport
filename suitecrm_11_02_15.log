@@ -1,0 +1,399 @@
+Mon Nov  2 00:00:08 2015 [126525][1][FATAL] Job 5f3f1a94-58f2-7d26-4060-5636fbbba34a (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:00:12 2015 [126525][1][FATAL] Job 95bad81d-4791-3045-03ee-5636fbd00962 (Run Reports) failed in CRON run
+Mon Nov  2 00:05:02 2015 [5277][1][FATAL] Job 591fb980-5134-6f96-1ac6-5636fdd4d9d5 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:05:05 2015 [5277][1][FATAL] Job e1fe12c8-f03e-52d1-9b05-5636fd8c9c4e (Run Reports) failed in CRON run
+Mon Nov  2 00:10:06 2015 [11891][1][FATAL] Job d907fa6f-5765-808d-7b98-5636fe8af8b7 (Run Reports) failed in CRON run
+Mon Nov  2 00:10:06 2015 [11891][1][FATAL] Job da340073-c828-e5b4-e8c6-5636feba17ff (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:15:06 2015 [17672][1][FATAL] Job 8e5c36cf-1df9-4452-c4d5-5636ffe1e718 (Run Reports) failed in CRON run
+Mon Nov  2 00:15:06 2015 [17672][1][FATAL] Job fda308d2-b315-106a-d4d1-5636ffe83ca3 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:20:02 2015 [23574][1][FATAL] Job 4de964bb-1c24-601c-f6aa-563700021caf (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:20:05 2015 [23574][1][FATAL] Job c571cf2a-97bd-6b31-09b2-5637006e04f5 (Run Reports) failed in CRON run
+Mon Nov  2 00:25:06 2015 [28906][1][FATAL] Job 5a427275-fac0-233c-634a-56370136568e (Run Reports) failed in CRON run
+Mon Nov  2 00:25:06 2015 [28906][1][FATAL] Job bbb1b196-c0ab-bf71-6bcd-563701ea3266 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:30:06 2015 [34840][1][FATAL] Job 2fa000cd-266e-86fe-dc6d-5637021c8391 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:30:10 2015 [34840][1][FATAL] Job 97534685-dca1-b669-8e63-563702573a86 (Run Reports) failed in CRON run
+Mon Nov  2 00:35:03 2015 [41728][1][FATAL] Job 5431bd39-18fa-cbf8-1ab4-563704b45109 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:35:05 2015 [41728][1][FATAL] Job d86f3f50-52cf-9677-1085-56370412086e (Run Reports) failed in CRON run
+Mon Nov  2 00:40:03 2015 [47860][1][FATAL] Job 95876e1e-200f-cd30-318c-56370547a8e4 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:40:03 2015 [47860][1][FATAL] Job a36006db-5795-8ed0-ea95-563705c23378 (Run Reports) failed in CRON run
+Mon Nov  2 00:45:03 2015 [53813][1][FATAL] Job 1d01d584-2ea2-a625-2abf-5637069967cc (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:45:05 2015 [53813][1][FATAL] Job afb709fc-fe59-6614-9509-563706295edc (Run Reports) failed in CRON run
+Mon Nov  2 00:50:03 2015 [60310][1][FATAL] Job 17c8006a-8527-7d3a-12cc-563707d1b6b1 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 00:50:06 2015 [60310][1][FATAL] Job a3177c11-1ec0-a790-12cc-56370733debc (Run Reports) failed in CRON run
+Mon Nov  2 00:55:07 2015 [65800][1][FATAL] Job 4af1d167-3bc0-efb7-3df6-5637088054be (Run Reports) failed in CRON run
+Mon Nov  2 00:55:07 2015 [65800][1][FATAL] Job ae56d578-25ac-70f9-4219-563708726e04 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:00:11 2015 [71794][1][FATAL] Job 1836e2b3-32d9-c6da-d0f1-56370915b11b (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:00:12 2015 [71794][1][FATAL] Job 2e933346-d9bc-9128-6aa5-563709b87ea2 (Run Reports) failed in CRON run
+Mon Nov  2 01:05:05 2015 [79111][1][FATAL] Job 247ebfde-4e6a-88d3-ec93-56370b5c09d0 (Run Reports) failed in CRON run
+Mon Nov  2 01:05:05 2015 [79111][1][FATAL] Job a4abc866-a189-a0f4-c25c-56370b23938f (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:10:02 2015 [85138][1][FATAL] Job 4df8b9cc-fce7-14c7-4e47-56370cf86084 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:10:04 2015 [85138][1][FATAL] Job cb38c29d-d7f9-4527-d1af-56370cd9583f (Run Reports) failed in CRON run
+Mon Nov  2 01:15:05 2015 [91386][1][FATAL] Job 97140bc5-6841-d318-ceab-56370dc3ab38 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:15:07 2015 [91386][1][FATAL] Job ac613326-3a7f-68d8-4aec-56370dd4b361 (Run Reports) failed in CRON run
+Mon Nov  2 01:20:02 2015 [100258][1][FATAL] Job 413a8716-d588-5b7d-d66a-56370e85b7db (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:20:06 2015 [100258][1][FATAL] Job d3f38860-9d02-c09c-0bd9-56370ef55ad0 (Run Reports) failed in CRON run
+Mon Nov  2 01:25:02 2015 [107127][1][FATAL] Job 2d201e9b-c336-7028-3cc4-56370fcb7726 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:25:05 2015 [107127][1][FATAL] Job ac1c9fc7-8ead-7470-88db-56370fa52399 (Run Reports) failed in CRON run
+Mon Nov  2 01:30:07 2015 [113666][1][FATAL] Job 40cdbd35-508c-1ff3-07a8-563710572ed0 (Run Reports) failed in CRON run
+Mon Nov  2 01:30:08 2015 [113666][1][FATAL] Job 7a93f5e7-8fef-8fc9-b7a6-56371036879b (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:35:05 2015 [121001][1][FATAL] Job 28b41dde-6edd-3821-7519-563712964aeb (Run Reports) failed in CRON run
+Mon Nov  2 01:35:06 2015 [121001][1][FATAL] Job b0f87703-fda6-61d7-b0d6-563712daeddd (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:40:11 2015 [128695][1][FATAL] Job eade079b-f26c-36fa-0954-5637131f53f0 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:40:11 2015 [128695][1][FATAL] Job f7e00852-e34d-93d9-045b-563713b488d5 (Run Reports) failed in CRON run
+Mon Nov  2 01:45:03 2015 [5719][1][FATAL] Job 120eef69-dc02-54f7-8492-563714bb072f (Run Reports) failed in CRON run
+Mon Nov  2 01:45:03 2015 [5719][1][FATAL] Job 7b215572-dcf7-3a0c-f4ca-5637146cd3f3 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:50:03 2015 [13542][1][FATAL] Job 71da3c42-92ee-4446-4dfd-56371529ef53 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:50:04 2015 [13542][1][FATAL] Job f3731140-6142-eb8a-7c72-5637156b689a (Run Reports) failed in CRON run
+Mon Nov  2 01:55:02 2015 [20652][1][FATAL] Job 24cdd29d-b0b9-e58f-d149-5637165c6ac5 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 01:55:05 2015 [20652][1][FATAL] Job 88655e05-8dc1-8318-c7cb-56371631a041 (Run Reports) failed in CRON run
+Mon Nov  2 02:00:04 2015 [28788][1][FATAL] Job 1f9ca6e9-6b45-87dd-c767-5637186a5840 (Run Reports) failed in CRON run
+Mon Nov  2 02:00:04 2015 [28788][1][FATAL] Job 5f35fec3-6ec5-0315-78e6-563718e88224 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:00:04 2015 [28788][1][FATAL] Job c01c0cb1-1da5-d55d-776b-56371864ff0f (Optimise AOD Index) failed in CRON run
+Mon Nov  2 02:05:04 2015 [37221][1][FATAL] Job 621371cc-07a3-ea53-ab07-563719c159fe (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:05:05 2015 [37221][1][FATAL] Job a3423d45-a2ed-e55a-d929-5637195d13f8 (Run Reports) failed in CRON run
+Mon Nov  2 02:10:05 2015 [46045][1][FATAL] Job 73368a00-b288-ba63-12b3-56371a7b6ad1 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:10:05 2015 [46045][1][FATAL] Job ee7b0f97-f4fc-4c50-a2b3-56371a9b013c (Run Reports) failed in CRON run
+Mon Nov  2 02:15:07 2015 [54886][1][FATAL] Job 81a2cb07-7571-0555-2aad-56371bccf228 (Run Reports) failed in CRON run
+Mon Nov  2 02:15:07 2015 [54886][1][FATAL] Job b2f37345-7ce5-9027-63eb-56371b51c049 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:20:06 2015 [63077][1][FATAL] Job c8c2f5c2-b20b-8513-38c9-56371c3dc677 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:20:06 2015 [63077][1][FATAL] Job cb97b5c7-aabb-108e-5010-56371ced9fc2 (Run Reports) failed in CRON run
+Mon Nov  2 02:25:02 2015 [71214][1][FATAL] Job 752103be-f241-879a-77d5-56371da4b539 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:25:05 2015 [71214][1][FATAL] Job c7e84bbd-4095-962c-7784-56371d2f8958 (Run Reports) failed in CRON run
+Mon Nov  2 02:30:04 2015 [79266][1][FATAL] Job 11d7e26b-290c-fe48-c3e3-56371f879bf9 (Run Reports) failed in CRON run
+Mon Nov  2 02:30:04 2015 [79266][1][FATAL] Job 1852a9c6-53c5-d877-9629-56371f3de142 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:35:02 2015 [86350][1][FATAL] Job 18abc6a0-c224-a9b7-c8eb-563720de53fd (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:35:05 2015 [86350][1][FATAL] Job 704c21a6-0973-1cd3-f833-56372030fd9b (Run Reports) failed in CRON run
+Mon Nov  2 02:40:02 2015 [92489][1][FATAL] Job 2481f4f0-4a66-c48f-4ebe-5637211f281e (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:40:04 2015 [92489][1][FATAL] Job 8b51ed77-fb7b-666a-baba-563721dfc617 (Run Reports) failed in CRON run
+Mon Nov  2 02:45:05 2015 [99720][1][FATAL] Job 31f52f6f-ecb0-b7c6-093e-563722354552 (Run Reports) failed in CRON run
+Mon Nov  2 02:45:05 2015 [99720][1][FATAL] Job bccd6975-f4c7-3058-4f0d-563722f0d17d (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:50:02 2015 [106987][1][FATAL] Job 62b816d1-96fc-9589-21c5-5637236b7474 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 02:50:05 2015 [106987][1][FATAL] Job c94ad471-d38a-5fde-8f6e-563723c7c174 (Run Reports) failed in CRON run
+Mon Nov  2 02:55:06 2015 [114286][1][FATAL] Job 766ba096-fa23-0ffb-f941-5637246156cf (Run Reports) failed in CRON run
+Mon Nov  2 02:55:06 2015 [114286][1][FATAL] Job ecd3a11e-a488-db22-9e32-563724f3e40c (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:00:09 2015 [120923][1][FATAL] Job 4a3484e2-3acf-7142-ed0c-5637266d6179 (Run Reports) failed in CRON run
+Mon Nov  2 03:00:09 2015 [120923][1][FATAL] Job 5779e39a-6dfa-aad3-fdac-563726c9c502 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:05:02 2015 [128055][1][FATAL] Job 21b53b33-785b-241e-3b0b-5637272d2c67 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:05:05 2015 [128055][1][FATAL] Job ba91c378-353f-3fac-9049-56372716030d (Run Reports) failed in CRON run
+Mon Nov  2 03:10:03 2015 [4936][1][FATAL] Job 5388120b-fdc0-4068-f6b0-563728b48b17 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:10:06 2015 [4936][1][FATAL] Job ccc018d6-2ac2-608f-ffd1-5637281655eb (Run Reports) failed in CRON run
+Mon Nov  2 03:15:12 2015 [12651][1][FATAL] Job dd1001be-c088-8b89-34bb-563729d6aa27 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:15:12 2015 [12651][1][FATAL] Job f380689f-e9d9-ee3d-8d26-563729f9bc98 (Run Reports) failed in CRON run
+Mon Nov  2 03:20:02 2015 [19410][1][FATAL] Job 3b850c0f-1095-d281-b464-56372a0f1718 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:20:06 2015 [19410][1][FATAL] Job 8f27ab84-dc7e-be95-1ec2-56372a93ff1e (Run Reports) failed in CRON run
+Mon Nov  2 03:25:03 2015 [26123][1][FATAL] Job 17dc8aef-e9a8-6269-2fda-56372b361e13 (Run Reports) failed in CRON run
+Mon Nov  2 03:25:06 2015 [26123][1][FATAL] Job 924d62a4-bc0d-a9ed-fc25-56372ba7ed46 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:30:04 2015 [33182][1][FATAL] Job 2e25d3a0-990e-6989-d435-56372d189724 (Run Reports) failed in CRON run
+Mon Nov  2 03:30:08 2015 [33182][1][FATAL] Job 9686befe-14ad-2219-dc96-56372d32a418 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:35:07 2015 [40623][1][FATAL] Job 2e16b8fb-ff5c-3a4e-9174-56372ea1627c (Run Reports) failed in CRON run
+Mon Nov  2 03:35:07 2015 [40623][1][FATAL] Job 8df1df8b-1109-1c12-0b80-56372e267374 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:40:08 2015 [47435][1][FATAL] Job ba241f20-f2e6-f49c-433b-56372f70d461 (Run Reports) failed in CRON run
+Mon Nov  2 03:40:08 2015 [47435][1][FATAL] Job ef26de3e-6023-db58-3999-56372f747133 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:45:07 2015 [54597][1][FATAL] Job aa000371-933a-c0b3-1a94-563730030541 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:45:08 2015 [54597][1][FATAL] Job af401780-e9d8-2a41-56e2-563730905a49 (Run Reports) failed in CRON run
+Mon Nov  2 03:50:06 2015 [63356][1][FATAL] Job 499b02a2-9b9b-0c20-f19d-563731bc9f5c (Run Reports) failed in CRON run
+Mon Nov  2 03:50:06 2015 [63356][1][FATAL] Job d5d47d44-5c00-34e7-3901-563731e6bf90 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 03:55:07 2015 [69825][1][FATAL] Job 31b4f246-d909-c20b-4957-5637323c9baf (Run Reports) failed in CRON run
+Mon Nov  2 03:55:07 2015 [69825][1][FATAL] Job b2c10139-5262-71ee-198d-56373272068c (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:00:05 2015 [76682][1][FATAL] Job 176038cb-9af0-a963-d300-563734f9d912 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:00:12 2015 [76682][1][FATAL] Job 6a02b29c-5fb1-5d05-13bb-563734642c5c (Run Reports) failed in CRON run
+Mon Nov  2 04:05:03 2015 [84131][1][FATAL] Job 4291ee0a-bed3-ed24-8dde-563735f73f16 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:05:05 2015 [84131][1][FATAL] Job e4f87858-563f-87ce-62cc-56373593a513 (Run Reports) failed in CRON run
+Mon Nov  2 04:10:03 2015 [92595][1][FATAL] Job 1a22681b-b37d-19d4-6d4e-5637369216fc (Run Reports) failed in CRON run
+Mon Nov  2 04:10:03 2015 [92595][1][FATAL] Job 6615321e-d8dd-f9c4-d488-563736df8062 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 11:13:54 2015 [98143][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:13:54 2015 [98143][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:14:20 2015 [98765][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:14:20 2015 [98765][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:14:29 2015 [98995][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:14:29 2015 [98995][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:14:38 2015 [99182][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:14:38 2015 [99182][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:14:47 2015 [99409][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:14:47 2015 [99409][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 04:15:06 2015 [99837][1][FATAL] Job 62c32107-bb67-8b80-202e-5637379f1755 (Run Reports) failed in CRON run
+Mon Nov  2 04:15:06 2015 [99837][1][FATAL] Job cc9cacdc-defc-7ec5-69c1-5637375d6118 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 11:15:19 2015 [100709][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:15:19 2015 [100709][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:16:30 2015 [102226][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:16:30 2015 [102226][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:17:35 2015 [103728][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:17:35 2015 [103728][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:17:39 2015 [103832][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:17:39 2015 [103832][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:18:16 2015 [105003][-none-][FATAL] SECURITY: User authentication for gloria.adesorioye failed
+Mon Nov  2 11:18:16 2015 [105003][-none-][FATAL] FAILED LOGIN:attempts[1] - gloria.adesorioye
+Mon Nov  2 11:18:23 2015 [105145][-none-][FATAL] SECURITY: User authentication for blessing.adesorioye failed
+Mon Nov  2 11:18:23 2015 [105145][-none-][FATAL] FAILED LOGIN:attempts[1] - blessing.adesorioye
+Mon Nov  2 04:20:02 2015 [107435][1][FATAL] Job 5961d65e-5bb8-ddf1-eeec-563738e13fe9 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:20:05 2015 [107435][1][FATAL] Job 97bc22e4-4b4c-4b3c-184f-563738a6e64c (Run Reports) failed in CRON run
+Mon Nov  2 04:25:05 2015 [114186][1][FATAL] Job 2e9b6083-2f6b-93b6-3202-5637394d2238 (Run Reports) failed in CRON run
+Mon Nov  2 04:25:05 2015 [114186][1][FATAL] Job d1fc98a6-b04c-583e-2830-563739a0a81f (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:30:03 2015 [122678][1][FATAL] Job 630a9f9d-f7dd-f5f2-0295-56373ba7f577 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:30:06 2015 [122678][1][FATAL] Job cc0d67a9-8ed1-d7c9-4bfe-56373b501cbc (Run Reports) failed in CRON run
+Mon Nov  2 04:35:09 2015 [130371][1][FATAL] Job 9f909cbb-8253-482f-72a8-56373c8fda88 (Run Reports) failed in CRON run
+Mon Nov  2 04:35:09 2015 [130371][1][FATAL] Job cea048ec-3c74-414f-9b3d-56373c8cd8cc (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:40:03 2015 [7113][1][FATAL] Job 33e8aac7-a093-90df-79e5-56373d081622 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:40:07 2015 [7113][1][FATAL] Job d00cecc3-99fa-ec2a-cb8e-56373daa0e7b (Run Reports) failed in CRON run
+Mon Nov  2 04:45:06 2015 [13780][1][FATAL] Job 88ed2b98-b2cd-fd04-5406-56373e894c24 (Run Reports) failed in CRON run
+Mon Nov  2 04:45:06 2015 [13780][1][FATAL] Job d9009c6d-f683-a9c7-ab41-56373ec1eb96 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:50:02 2015 [22023][1][FATAL] Job 51490098-2676-dc9d-58d6-56373f822c26 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:50:05 2015 [22023][1][FATAL] Job a165d2c4-dcf4-52fc-0a8c-56373f2b6c70 (Run Reports) failed in CRON run
+Mon Nov  2 04:55:02 2015 [28524][1][FATAL] Job 1a7639f8-50f1-c8bc-17be-563741aff0a1 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 04:55:05 2015 [28524][1][FATAL] Job 92d4e805-140f-4ebf-564e-5637411e1ad3 (Run Reports) failed in CRON run
+Mon Nov  2 05:00:08 2015 [35710][1][FATAL] Job 64d37730-9d3d-ed37-7b1c-563742fb2808 (Optimise AOD Index) failed in CRON run
+Mon Nov  2 05:05:02 2015 [43495][1][FATAL] Job 7512895f-376f-0db4-14fa-5637424fd7d4 (Run Reports) failed in CRON run
+Mon Nov  2 05:05:02 2015 [43495][1][FATAL] Job cb3e5b03-a5be-bf89-779c-56374285a2aa (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 12:08:50 2015 [49392][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 12:08:50 2015 [49392][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+Mon Nov  2 12:08:50 2015 [49392][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 12:08:50 2015 [49392][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+Mon Nov  2 12:08:50 2015 [49392][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 12:08:50 2015 [49392][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+Mon Nov  2 05:10:06 2015 [51535][1][FATAL] Job 4907ee90-e7bf-d966-d1af-563744360e10 (Run Reports) failed in CRON run
+Mon Nov  2 05:10:06 2015 [51535][1][FATAL] Job b381a6db-3062-7bd9-3df6-563744a977b2 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 05:15:05 2015 [59393][1][FATAL] Job 50a3f43f-4ba0-0c7d-887c-563745756346 (Run Reports) failed in CRON run
+Mon Nov  2 05:15:05 2015 [59393][1][FATAL] Job d728042e-0d8e-3e15-0ac2-5637454a496f (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 12:15:33 2015 [60363][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 12:19:17 2015 [65299][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 12:20:02 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:02 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:02 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 12:20:03 2015 [66541][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+Mon Nov  2 05:20:06 2015 [66597][1][FATAL] Job adc1b42f-e8ad-0bc0-6d5d-5637467ba9f5 (Run Reports) failed in CRON run
+Mon Nov  2 05:20:06 2015 [66597][1][FATAL] Job b0610937-90d2-ae13-ca07-563746e686be (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 05:25:02 2015 [74264][1][FATAL] Job 6bf04e1a-0688-1157-8c4d-5637486ec447 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 05:25:05 2015 [74264][1][FATAL] Job c3dbba8a-8e38-551a-c8c5-563748327968 (Run Reports) failed in CRON run
+Mon Nov  2 05:30:03 2015 [82809][1][FATAL] Job 19390929-1bf7-59ef-961d-563749480368 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 05:30:07 2015 [82809][1][FATAL] Job a9cff23d-d131-f6a4-025d-563749ed3989 (Run Reports) failed in CRON run
+Mon Nov  2 05:35:03 2015 [90453][1][FATAL] Job 84e6c921-498b-4d28-92a9-56374a5608a4 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 05:35:05 2015 [90453][1][FATAL] Job e390592f-26b1-1234-3277-56374a71ed3d (Run Reports) failed in CRON run
+Mon Nov  2 05:40:03 2015 [98002][1][FATAL] Job 9d0f4639-175c-a05a-8ea4-56374b7d82fd (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 05:40:05 2015 [98002][1][FATAL] Job e606be2b-37c6-4dfc-d4a7-56374bf9f313 (Run Reports) failed in CRON run
+Mon Nov  2 05:45:03 2015 [104945][1][FATAL] Job 20f00b9c-51e9-8158-e65d-56374c6c40f5 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 05:45:05 2015 [104945][1][FATAL] Job 7bb91cfb-fb9b-dc8f-26b8-56374c9bb560 (Run Reports) failed in CRON run
+Mon Nov  2 05:55:07 2015 [5495][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:55:07 2015 [5876][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:55:07 2015 [5448][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:55:07 2015 [5899][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:55:07 2015 [5446][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:55:17 2015 [6330][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:55:32 2015 [8100][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:55:40 2015 [8400][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:56:09 2015 [9594][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:56:18 2015 [9911][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:56:33 2015 [10413][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:57:34 2015 [13112][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:58:07 2015 [14420][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:58:23 2015 [14946][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:58:39 2015 [15454][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 12:58:39 2015 [15510][-none-][FATAL] Could not connect to DB server localhost as supportv_crm. port : Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+Mon Nov  2 06:00:56 2015 [18606][1][FATAL] Job c0755824-7b1b-962f-fe3a-5637505562c2 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:00:57 2015 [18606][1][FATAL] Job ec36bac4-5811-9ceb-f552-56375073c552 (Run Reports) failed in CRON run
+Mon Nov  2 06:05:03 2015 [26841][1][FATAL] Job 5940006c-98d8-0adf-891d-56375126f7af (Run Reports) failed in CRON run
+Mon Nov  2 06:05:03 2015 [26841][1][FATAL] Job b1526e1f-fa80-39ff-50a7-563751096427 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:10:02 2015 [34833][1][FATAL] Job a03ab6f0-4bc7-0089-fbde-563752d0691e (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:10:04 2015 [34833][1][FATAL] Job ddc03bfe-a2ee-867f-8f41-563752db527b (Run Reports) failed in CRON run
+Mon Nov  2 06:15:03 2015 [43967][1][FATAL] Job 1ffc8d22-59a5-8b65-54f7-5637535fa327 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:15:07 2015 [43967][1][FATAL] Job aef383cc-7ed7-52a3-4601-5637530db234 (Run Reports) failed in CRON run
+Mon Nov  2 06:20:05 2015 [51867][1][FATAL] Job 67b86823-0086-ed00-00a1-563754032acc (Run Reports) failed in CRON run
+Mon Nov  2 06:20:05 2015 [51867][1][FATAL] Job 6e2f15aa-d722-bf46-8b50-563754525b40 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:25:03 2015 [59728][1][FATAL] Job 19cc0a67-83e0-c197-bc28-5637560ac881 (Run Reports) failed in CRON run
+Mon Nov  2 06:25:05 2015 [59728][1][FATAL] Job b88c9d8b-e6a5-c913-5c54-563756652ed2 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:30:08 2015 [69019][1][FATAL] Job 61278c9a-67e9-e217-b801-5637576f0cad (Run Reports) failed in CRON run
+Mon Nov  2 06:30:08 2015 [69019][1][FATAL] Job cee0b28f-2937-6325-ee06-5637578718a9 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:35:05 2015 [77374][1][FATAL] Job 24329aa9-f5de-9501-f58c-563758ebb97a (Run Reports) failed in CRON run
+Mon Nov  2 06:35:05 2015 [77374][1][FATAL] Job 93f66523-1355-6fc8-c217-563758f92cbf (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:40:04 2015 [85688][1][FATAL] Job a1c937d4-6cfa-704c-c03a-563759d2b210 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:40:06 2015 [85688][1][FATAL] Job e5b380c9-7294-f09e-d47a-5637597a21e0 (Run Reports) failed in CRON run
+Mon Nov  2 06:45:02 2015 [94419][1][FATAL] Job 3faff0e2-a39b-7d6c-e50f-56375ae178c9 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:45:04 2015 [94419][1][FATAL] Job a5fcf1e9-46ee-e023-49c8-56375ad988a0 (Run Reports) failed in CRON run
+Mon Nov  2 06:50:05 2015 [102440][1][FATAL] Job 579fd065-0df2-921c-35bc-56375bbd5bfc (Run Reports) failed in CRON run
+Mon Nov  2 06:50:05 2015 [102440][1][FATAL] Job b93a4312-a486-97fa-d155-56375b000258 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 06:55:05 2015 [110219][1][FATAL] Job 419c7f49-7a28-29f8-2c69-56375d632f74 (Run Reports) failed in CRON run
+Mon Nov  2 06:55:05 2015 [110219][1][FATAL] Job 8ce800d8-13d0-3c72-f699-56375da9855a (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:00:06 2015 [116834][1][FATAL] Job 39760a84-fe71-4f0e-e636-56375e14b5cd (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:00:08 2015 [116834][1][FATAL] Job 93548e84-2829-0f22-b884-56375ee79d17 (Run Reports) failed in CRON run
+Mon Nov  2 07:05:03 2015 [124192][1][FATAL] Job 92587748-eb7e-5016-356b-56375f257e9c (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:05:05 2015 [124192][1][FATAL] Job ea777022-6a92-a20b-3037-56375f3ec170 (Run Reports) failed in CRON run
+Mon Nov  2 07:10:03 2015 [131022][1][FATAL] Job a9d128b1-82a5-07e2-e4c3-5637608d553c (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:10:04 2015 [131022][1][FATAL] Job e747d385-c3da-e49f-d580-563760217bd0 (Run Reports) failed in CRON run
+Mon Nov  2 07:15:06 2015 [7712][1][FATAL] Job 5c229dbd-23f2-a887-7cfa-56376143bc23 (Run Reports) failed in CRON run
+Mon Nov  2 07:15:06 2015 [7712][1][FATAL] Job ef05ee04-f470-c987-dacb-563761dc564a (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:20:02 2015 [14472][1][FATAL] Job 32f77653-d95f-6417-1d22-563763513c59 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:20:04 2015 [14472][1][FATAL] Job 7d2ea108-ddbc-2b8a-6286-5637632257a3 (Run Reports) failed in CRON run
+Mon Nov  2 07:25:02 2015 [22057][1][FATAL] Job 33ae5e95-9cb8-2d5c-7e2c-563764bcb0d9 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:25:04 2015 [22057][1][FATAL] Job b5534a7f-a965-f990-052e-563764e815db (Run Reports) failed in CRON run
+Mon Nov  2 07:30:06 2015 [29808][1][FATAL] Job a4d49254-8bdc-f3c0-699a-5637659a4024 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:30:10 2015 [29808][1][FATAL] Job e6c77bed-9465-6a94-aa39-563765f6cead (Run Reports) failed in CRON run
+Mon Nov  2 07:35:02 2015 [38279][1][FATAL] Job 7881545d-e32f-a355-89fd-563766e1dffd (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:35:05 2015 [38279][1][FATAL] Job e5b9e408-c27b-f4b5-f0e1-5637662bc772 (Run Reports) failed in CRON run
+Mon Nov  2 07:40:03 2015 [45433][1][FATAL] Job 29a5a497-940e-d787-34cb-563767daa9ae (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:40:06 2015 [45433][1][FATAL] Job aa5f10d2-b063-90c9-0ea5-563767cb8ae0 (Run Reports) failed in CRON run
+Mon Nov  2 07:45:03 2015 [52559][1][FATAL] Job 1bfb4fb2-b3a9-f72c-d102-563768baec49 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:45:06 2015 [52559][1][FATAL] Job 648547c4-60e3-4bfc-1f9a-56376806694f (Run Reports) failed in CRON run
+Mon Nov  2 07:50:03 2015 [60387][1][FATAL] Job 14748258-dacd-c20d-c824-56376a0b2e47 (Run Reports) failed in CRON run
+Mon Nov  2 07:50:05 2015 [60387][1][FATAL] Job ac6265c0-9620-2126-a1c1-56376a080e14 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 07:55:05 2015 [67196][1][FATAL] Job 4ebd0021-72d4-2006-bfed-56376b0b7607 (Run Reports) failed in CRON run
+Mon Nov  2 07:55:05 2015 [67196][1][FATAL] Job e290a40c-a648-aa7a-0756-56376b6a43e0 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:00:09 2015 [74836][1][FATAL] Job 65a503bb-b4b9-e275-9301-56376c450a07 (Run Reports) failed in CRON run
+Mon Nov  2 08:00:09 2015 [74836][1][FATAL] Job 80b384ab-a6be-37cc-de1c-56376ccf6b74 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:00:10 2015 [74836][1][FATAL] Job c35bebb5-3304-2c14-bef5-56376ce93648 (Optimise AOD Index) failed in CRON run
+Mon Nov  2 08:05:02 2015 [83342][1][FATAL] Job 4dadce69-14a6-1573-591f-56376d7cac49 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:05:03 2015 [83342][1][FATAL] Job 82e88df5-32f2-0a35-cd6f-56376d4e1382 (Run Reports) failed in CRON run
+Mon Nov  2 08:10:06 2015 [91779][1][FATAL] Job ae8703f3-c1b2-4d35-cca2-56376e6d862d (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:10:06 2015 [91779][1][FATAL] Job b24bf481-e328-ca08-760d-56376ee46b9a (Run Reports) failed in CRON run
+Mon Nov  2 08:15:03 2015 [100143][1][FATAL] Job 2fe420f9-2ebb-ece6-650b-56376fa61a47 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:15:05 2015 [100143][1][FATAL] Job a2363e59-0bfb-6ba2-670f-56376f96c739 (Run Reports) failed in CRON run
+Mon Nov  2 08:20:05 2015 [107904][1][FATAL] Job 21dd5f8b-07d6-9cb0-46af-563771a08a3f (Run Reports) failed in CRON run
+Mon Nov  2 08:20:05 2015 [107904][1][FATAL] Job b9417e3f-44d2-36a3-0f67-563771d69199 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:25:02 2015 [116126][1][FATAL] Job 5e9daace-0da9-cdce-79d1-563772acce85 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:25:05 2015 [116126][1][FATAL] Job aef85b07-2be6-da2f-23c8-5637729db861 (Run Reports) failed in CRON run
+Mon Nov  2 08:30:16 2015 [123736][1][FATAL] Job 95141d67-e14d-e29d-c57f-5637737b628c (Run Reports) failed in CRON run
+Mon Nov  2 08:30:16 2015 [123736][1][FATAL] Job deda4816-e03a-c0e1-a9bf-563773dadaba (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:35:02 2015 [1311][1][FATAL] Job 40ae8db5-5fe8-2f18-41da-563774f1e9d8 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:35:05 2015 [1311][1][FATAL] Job cfdc0da5-9854-13a9-e583-56377449e355 (Run Reports) failed in CRON run
+Mon Nov  2 08:40:03 2015 [9593][1][FATAL] Job 424f8457-6e2a-b171-c902-5637758dae4d (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:40:08 2015 [9593][1][FATAL] Job babdc0fd-2d53-920b-683d-563775a7508f (Run Reports) failed in CRON run
+Mon Nov  2 08:45:02 2015 [17202][1][FATAL] Job 501a9d79-107d-d32f-b174-5637761a4a53 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:45:05 2015 [17202][1][FATAL] Job c85423f1-922f-5e29-cc87-563776684af6 (Run Reports) failed in CRON run
+Mon Nov  2 08:50:02 2015 [24670][1][FATAL] Job 512bfac0-237a-aeba-1315-563778c63577 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 08:50:05 2015 [24670][1][FATAL] Job cbe0c5c3-ff46-17fc-f2ee-563778a8dfeb (Run Reports) failed in CRON run
+Mon Nov  2 08:55:03 2015 [32423][1][FATAL] Job 208b0c39-d53f-4964-4df9-5637790ceeb1 (Run Reports) failed in CRON run
+Mon Nov  2 08:55:03 2015 [32423][1][FATAL] Job 9f966796-9c91-63f0-37fa-563779319537 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 09:00:10 2015 [40386][1][FATAL] Job 3c848c3f-e4b4-9c24-bee1-56377ab3b4bc (Run Reports) failed in CRON run
+Mon Nov  2 09:00:10 2015 [40386][1][FATAL] Job d2de003f-60dc-7f82-6e5d-56377a0235bb (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 09:05:02 2015 [49293][1][FATAL] Job 1e7af2d3-4a64-83f5-65b5-56377b60ecdf (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 09:05:04 2015 [49293][1][FATAL] Job 6905801b-6e76-fe87-857a-56377b24d8ad (Run Reports) failed in CRON run
+Mon Nov  2 09:10:07 2015 [58848][1][FATAL] Job 38b1cf56-12ff-c26d-f48b-56377cdac203 (Run Reports) failed in CRON run
+Mon Nov  2 09:10:07 2015 [58848][1][FATAL] Job a1758a63-fbb9-bdd2-6fe7-56377c51f422 (Run Report Generation Scheduled Tasks) failed in CRON run
+Mon Nov  2 09:15:05 2015 [67680][1][FATAL] Job 488917f0-6cb8-35e8-ce6f-56377d0f0f2d (Run Reports) failed in CRON run
+Mon Nov  2 09:15:05 2015 [67680][1][FATAL] Job 97030c9a-5e6e-1738-c479-56377ddd5880 (Run Report Generation Scheduled Tasks) failed in CRON run
+11/02/15 19:12:41 [6192][-none-][FATAL] Could not connect to DB server 127.0.0.1 as supportv_crm. port : Access denied for user 'supportv_crm'@'localhost' (using password: YES)
+11/02/15 19:15:16 [6192][-none-][FATAL] Could not connect to DB server 127.0.0.1 as supportv_crm. port : Access denied for user 'supportv_crm'@'localhost' (using password: YES)
+11/02/15 19:15:18 [6192][-none-][FATAL] Could not connect to DB server 127.0.0.1 as supportv_crm. port : Access denied for user 'supportv_crm'@'localhost' (using password: YES)
+11/02/15 19:15:45 [1272][-none-][FATAL] Could not connect to DB server 127.0.0.1 as supportv_crm. port : Access denied for user 'supportv_crm'@'localhost' (using password: YES)
+11/02/15 19:17:22 [1272][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'supportv_crm.currencies' doesn't exist
+11/02/15 19:17:22 [1272][-none-][FATAL] Unable to retrieve system settings Query Failed: SELECT category, name, value FROM config: MySQL error 1146: Table 'supportv_crm.config' doesn't exist
+11/02/15 20:59:24 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:00:25 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:01:26 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:02:27 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:03:28 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:04:29 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:05:30 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:06:30 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:07:32 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:08:33 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:09:34 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:10:35 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:11:34 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:12:35 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:13:36 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:14:37 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:15:38 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:16:39 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:17:40 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:18:40 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:19:40 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:20:41 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:21:42 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:22:43 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:23:44 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:24:45 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:25:46 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:26:46 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:27:45 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:28:46 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:29:48 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:30:48 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:31:50 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:32:51 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:33:52 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:34:53 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:35:54 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:36:54 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:37:55 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:38:56 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:39:56 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:40:57 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:41:57 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:42:57 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:43:59 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 21:45:00 [8788][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+11/02/15 22:33:47 [9680][-none-][FATAL] Could not connect to DB server 127.0.0.1 as root. port : Access denied for user 'root'@'localhost' (using password: NO)

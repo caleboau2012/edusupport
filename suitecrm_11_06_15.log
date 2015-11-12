@@ -1,0 +1,622 @@
+11/06/15 09:05:59 [13424][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SUGAREMAILADDRESS: address did not validate [  vickiechic29@yahoo.com ]
+11/06/15 09:06:01 [13424][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SUGAREMAILADDRESS: address did not validate [  vickiechic29@yahoo.com ]
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 09:27:26 [14032][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 10:05:15 [13424][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:05:15 [13424][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: ife.oladele@edutechng.com
+11/06/15 10:05:15 [13424][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ife.oladele@edutechng.com)
+11/06/15 10:05:17 [13424][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:05:17 [13424][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:25:50 [14552][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:25:50 [14552][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 10:25:50 [14552][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 10:37:02 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:02 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:04 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:04 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:07 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:07 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:10 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:10 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:13 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:13 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:15 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:15 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:18 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:18 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:21 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:21 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:23 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:23 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:26 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:26 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:37:29 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:37:29 [11296][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 10:48:49 [11296][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 10:48:49 [11296][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 10:48:49 [11296][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 11:01:04 [13032][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:01:04 [13032][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 11:01:04 [13032][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 11:06:16 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:06:16 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 11:06:16 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 11:12:54 [13032][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:12:54 [13032][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: nma.okoli.no@gmail.com
+11/06/15 11:12:54 [13032][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: nma.okoli.no@gmail.com)
+11/06/15 11:21:41 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:21:41 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:21:44 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:21:44 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:21:46 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:21:46 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:21:49 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:21:49 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:21:52 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:21:52 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:21:55 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:21:55 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:21:57 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:21:57 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:22:00 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:22:00 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:22:03 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:22:03 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:22:06 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:22:06 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:22:08 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:22:08 [11392][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 11:53:05 [11392][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: Invalid address: 
+11/06/15 11:53:38 [9636][1f8d998e-2ca6-4bcc-4993-558031bd983e][FATAL] SugarPHPMailer encountered an error: Invalid address: 
+11/06/15 11:58:39 [15092][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:58:39 [15092][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 11:58:39 [15092][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 11:58:41 [15092][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 11:58:41 [15092][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 12:32:52 [14996][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 12:32:52 [14996][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 12:32:52 [14996][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 12:46:25 [14996][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 12:46:25 [14996][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 12:46:25 [14996][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 12:46:28 [14996][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 12:46:28 [14996][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 12:55:27 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:27 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:27 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:27 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:27 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:27 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 12:55:28 [2444][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 12:56:47 [10840][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 13:37:52 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:37:52 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:37:54 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:37:54 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:37:57 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:37:57 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:37:59 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:37:59 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:38:02 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:38:02 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:38:04 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:38:04 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:38:06 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:38:06 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:38:09 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:38:09 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:38:11 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:38:11 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:38:14 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:38:14 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:38:16 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:38:16 [10552][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:46:36 [9496][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:46:36 [9496][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: nma.okoli.no@gmail.com
+11/06/15 13:46:36 [9496][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: nma.okoli.no@gmail.com)
+11/06/15 13:46:38 [9496][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:46:38 [9496][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 13:47:45 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:47:45 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 13:47:45 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 13:47:48 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 13:47:48 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:00:26 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:00:27 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:13:52 [14880][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] error loading relationship aor_reports
+11/06/15 14:14:21 [7328][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:23:19 [9496][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:24:05 [7328][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 14:56:13 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 14:56:13 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 14:56:13 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 14:56:15 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 14:56:15 [9864][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 15:08:11 [14880][-none-][FATAL] SECURITY: User authentication for boye.oshinaga failed
+11/06/15 15:08:11 [14880][-none-][FATAL] FAILED LOGIN:attempts[1] - boye.oshinaga
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 16:32:29 [7192][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 16:33:34 [6516][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 16:57:50 [14744][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 16:57:50 [14744][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] SugarPHPMailer encountered an error: The following From address failed: caleb.mbakwe@cloudtechng.com
+11/06/15 17:19:43 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:43 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:43 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:43 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:43 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] error loading relationship aor_reports
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] error loading relationship aor_reports
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] error loading relationship aor_reports
+11/06/15 17:19:44 [7192][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 17:20:57 [13944][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 17:22:27 [14460][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10061 Reply: No connection could be made because the target machine actively refused it.
+ 
+11/06/15 17:22:27 [14460][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: The following From address failed: ebun.soetan@edutechng.com
+11/06/15 17:22:27 [14460][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] Notifications: error sending e-mail (method: smtp), (error: The following From address failed: ebun.soetan@edutechng.com)
+11/06/15 17:22:28 [14460][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 17:22:28 [14460][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] error loading relationship aor_reports
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:26:08 [15160][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:57 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:58 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:58 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:58 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:58 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_fields failed to load
+
+11/06/15 18:42:58 [3628][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 19:18:06 [15008][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 19:18:06 [15008][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 19:19:51 [15008][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 19:19:51 [15008][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 19:21:21 [13140][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 19:21:21 [13140][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 19:24:14 [11208][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 19:24:14 [11208][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 19:42:10 [5568][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 19:42:10 [5568][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 19:44:35 [5568][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 19:44:35 [5568][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 20:01:28 [12088][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 20:01:28 [12088][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 20:04:33 [12088][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 20:04:33 [12088][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 20:07:27 [11140][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 20:07:27 [11140][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 20:08:55 [13224][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 20:08:55 [13224][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 20:10:32 [11704][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 20:10:32 [11704][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
+11/06/15 20:11:32 [11704][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] aor_reports for aor_report_aor_conditions failed to load
+
+11/06/15 20:11:32 [11704][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] error loading relationship aor_reports
