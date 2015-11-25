@@ -1,5 +1,5 @@
 <?php
-// created: 2015-11-09 14:24:01
+// created: 2015-11-23 16:50:05
 $mod_strings = array (
   'ERR_NO_OPPS' => 'Please create some Opportunities to see Opportunity graphs.',
   'LBL_ALL_OPPORTUNITIES' => 'Total amount of all opportunities is ',

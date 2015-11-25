@@ -1,5 +1,5 @@
 <?php
-// created: 2015-11-09 13:44:21
+// created: 2015-11-23 16:49:49
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -131,11 +131,4 @@ $mod_strings = array (
   'LBL_RESCHEDULE_PANEL' => 'Reschedule',
   'LBL_RESCHEDULE_HISTORY' => 'Call Attempt History',
   'LBL_SECURITYGROUPS_SUBPANEL_TITLE' => 'Security Groups',
-  'LBL_TWILIO_CALL_ID' => 'Twilio Call Id',
-  'LBL_PRICE' => 'Price',
-  'LBL_URI' => 'Uri',
-  'LBL_RECORDINGS' => 'Recordings',
-  'LBL_SOURCE' => 'Source',
-  'LBL_DESTINATION' => 'Destination',
-  'LBL_SYNC' => 'Sync',
 );

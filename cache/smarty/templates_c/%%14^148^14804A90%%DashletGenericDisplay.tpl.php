@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.11, created on 2015-11-09 14:24:01
+<?php /* Smarty version 2.6.11, created on 2015-11-23 16:50:05
          compiled from include/Dashlets/DashletGenericDisplay.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getimage', 'include/Dashlets/DashletGenericDisplay.tpl', 57, false),array('function', 'counter', 'include/Dashlets/DashletGenericDisplay.tpl', 114, false),array('function', 'sugar_translate', 'include/Dashlets/DashletGenericDisplay.tpl', 124, false),array('function', 'sugar_evalcolumn_old', 'include/Dashlets/DashletGenericDisplay.tpl', 175, false),array('function', 'sugar_field', 'include/Dashlets/DashletGenericDisplay.tpl', 177, false),array('modifier', 'default', 'include/Dashlets/DashletGenericDisplay.tpl', 122, false),array('modifier', 'lower', 'include/Dashlets/DashletGenericDisplay.tpl', 124, false),)), $this); ?>

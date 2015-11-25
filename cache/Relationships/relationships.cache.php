@@ -7800,6 +7800,39 @@
       ),
     ),
   ),
+  'alerts_modified_user' => 
+  array (
+    'name' => 'alerts_modified_user',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'Alerts',
+    'rhs_table' => 'alerts',
+    'rhs_key' => 'modified_user_id',
+    'relationship_type' => 'one-to-many',
+  ),
+  'alerts_created_by' => 
+  array (
+    'name' => 'alerts_created_by',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'Alerts',
+    'rhs_table' => 'alerts',
+    'rhs_key' => 'created_by',
+    'relationship_type' => 'one-to-many',
+  ),
+  'alerts_assigned_user' => 
+  array (
+    'name' => 'alerts_assigned_user',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'Alerts',
+    'rhs_table' => 'alerts',
+    'rhs_key' => 'assigned_user_id',
+    'relationship_type' => 'one-to-many',
+  ),
   'leads_modified_user' => 
   array (
     'name' => 'leads_modified_user',
@@ -10067,39 +10100,6 @@
     'rhs_key' => 'monitor_id',
     'relationship_type' => 'one-to-one',
   ),
-  'alerts_modified_user' => 
-  array (
-    'name' => 'alerts_modified_user',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'Alerts',
-    'rhs_table' => 'alerts',
-    'rhs_key' => 'modified_user_id',
-    'relationship_type' => 'one-to-many',
-  ),
-  'alerts_created_by' => 
-  array (
-    'name' => 'alerts_created_by',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'Alerts',
-    'rhs_table' => 'alerts',
-    'rhs_key' => 'created_by',
-    'relationship_type' => 'one-to-many',
-  ),
-  'alerts_assigned_user' => 
-  array (
-    'name' => 'alerts_assigned_user',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'Alerts',
-    'rhs_table' => 'alerts',
-    'rhs_key' => 'assigned_user_id',
-    'relationship_type' => 'one-to-many',
-  ),
   'documents_modified_user' => 
   array (
     'name' => 'documents_modified_user',
@@ -11528,105 +11528,6 @@
     'lhs_key' => 'id',
     'rhs_module' => 'SecurityGroups',
     'rhs_table' => 'securitygroups',
-    'rhs_key' => 'assigned_user_id',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_sms_log_modified_user' => 
-  array (
-    'name' => 'rolus_sms_log_modified_user',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_SMS_log',
-    'rhs_table' => 'rolus_sms_log',
-    'rhs_key' => 'modified_user_id',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_sms_log_created_by' => 
-  array (
-    'name' => 'rolus_sms_log_created_by',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_SMS_log',
-    'rhs_table' => 'rolus_sms_log',
-    'rhs_key' => 'created_by',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_sms_log_assigned_user' => 
-  array (
-    'name' => 'rolus_sms_log_assigned_user',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_SMS_log',
-    'rhs_table' => 'rolus_sms_log',
-    'rhs_key' => 'assigned_user_id',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_twilio_account_modified_user' => 
-  array (
-    'name' => 'rolus_twilio_account_modified_user',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_Twilio_Account',
-    'rhs_table' => 'rolus_twilio_account',
-    'rhs_key' => 'modified_user_id',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_twilio_account_created_by' => 
-  array (
-    'name' => 'rolus_twilio_account_created_by',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_Twilio_Account',
-    'rhs_table' => 'rolus_twilio_account',
-    'rhs_key' => 'created_by',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_twilio_account_assigned_user' => 
-  array (
-    'name' => 'rolus_twilio_account_assigned_user',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_Twilio_Account',
-    'rhs_table' => 'rolus_twilio_account',
-    'rhs_key' => 'assigned_user_id',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_twilio_extension_manager_modified_user' => 
-  array (
-    'name' => 'rolus_twilio_extension_manager_modified_user',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_Twilio_Extension_Manager',
-    'rhs_table' => 'rolus_twilio_extension_manager',
-    'rhs_key' => 'modified_user_id',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_twilio_extension_manager_created_by' => 
-  array (
-    'name' => 'rolus_twilio_extension_manager_created_by',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_Twilio_Extension_Manager',
-    'rhs_table' => 'rolus_twilio_extension_manager',
-    'rhs_key' => 'created_by',
-    'relationship_type' => 'one-to-many',
-  ),
-  'rolus_twilio_extension_manager_assigned_user' => 
-  array (
-    'name' => 'rolus_twilio_extension_manager_assigned_user',
-    'lhs_module' => 'Users',
-    'lhs_table' => 'users',
-    'lhs_key' => 'id',
-    'rhs_module' => 'rolus_Twilio_Extension_Manager',
-    'rhs_table' => 'rolus_twilio_extension_manager',
     'rhs_key' => 'assigned_user_id',
     'relationship_type' => 'one-to-many',
   ),

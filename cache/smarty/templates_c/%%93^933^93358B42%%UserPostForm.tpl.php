@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.11, created on 2015-11-09 14:24:01
+<?php /* Smarty version 2.6.11, created on 2015-11-23 16:50:06
          compiled from custom/modules/SugarFeed/Dashlets/SugarFeedDashlet/UserPostForm.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_translate', 'custom/modules/SugarFeed/Dashlets/SugarFeedDashlet/UserPostForm.tpl', 49, false),array('function', 'html_options', 'custom/modules/SugarFeed/Dashlets/SugarFeedDashlet/UserPostForm.tpl', 58, false),)), $this); ?>

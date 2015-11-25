@@ -1,20 +1,20 @@
-1447343320Array
+1448453559Array
 (
-    [page_id] => 6c0c6a8a-1fa1-4496-904b-10e47eff85ce
-    [page_name] => Workers
+    [page_id] => cd922c07-f19a-453f-b1f8-d0a74ff08378
+    [page_name] => Nursing
     [variant] => a
-    [page_url] => http://register.online.oaucdl.edu.ng/wk
-    [data_json] => {"first_name":["OLUWABUSAYO"],"last_name":["OJO"],"email_address":["busayoojo123@gmail.com"],"phone_number":["+2348066238192"],"how_did_you_hear_about_us":["Blog Post"],"other":[""],"ip_address":["141.0.12.122"],"time_submitted":["03:49 PM UTC"],"date_submitted":["2015-11-12"]}
+    [page_url] => http://register.online.oaucdl.edu.ng/nursing
+    [data_json] => {"first_name":["Alexandria"],"last_name":["Taiwo"],"email_address":["patlworld@yahoo.com"],"phone_number":["08024918083"],"how_did_you_hear_about_us":["Google Search"],"other":[""],"ip_address":["82.145.222.235"],"time_submitted":["12:12 PM UTC"],"date_submitted":["2015-11-25"]}
     [data_xml] => <?xml version='1.0'?>
 <form_data>
-  <first_name>OLUWABUSAYO</first_name>
-  <last_name>OJO</last_name>
-  <email_address>busayoojo123@gmail.com</email_address>
-  <phone_number>+2348066238192</phone_number>
-  <how_did_you_hear_about_us>Blog Post</how_did_you_hear_about_us>
+  <first_name>Alexandria</first_name>
+  <last_name>Taiwo</last_name>
+  <email_address>patlworld@yahoo.com</email_address>
+  <phone_number>08024918083</phone_number>
+  <how_did_you_hear_about_us>Google Search</how_did_you_hear_about_us>
   <other></other>
-  <ip_address>141.0.12.122</ip_address>
-  <time_submitted>03:49 PM UTC</time_submitted>
-  <date_submitted>2015-11-12</date_submitted>
+  <ip_address>82.145.222.235</ip_address>
+  <time_submitted>12:12 PM UTC</time_submitted>
+  <date_submitted>2015-11-25</date_submitted>
 </form_data>
 )

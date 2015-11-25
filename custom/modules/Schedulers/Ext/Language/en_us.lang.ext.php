@@ -83,9 +83,4 @@ $mod_strings['LBL_PROCESSAOW_WORKFLOW']='Process AOW Workflow';
 
 
 
-
-
-$mod_strings['LBL_TWILIOSMSSYNC'] = 'RT SMS Sync'; 
-
-
 ?>

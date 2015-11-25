@@ -61,10 +61,6 @@ array (
             'name' => 'UserType',
             'customCode' => '{if $IS_ADMIN}{$USER_TYPE_DROPDOWN}{else}{$USER_TYPE_READONLY}{/if}',
           ),
-          1 => 
-          array (
-            'name' => 'extension',
-          ),
         ),
       ),
       'LBL_EMPLOYEE_INFORMATION' => 

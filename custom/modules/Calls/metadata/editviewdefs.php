@@ -151,28 +151,9 @@ function formSubmitCheck(){ldelim}var duration=true;if(typeof(isValidDuration)!=
             'name' => 'assigned_user_name',
             'label' => 'LBL_ASSIGNED_TO_NAME',
           ),
-          1 => 
-          array (
-            'name' => 'source',
-          ),
-        ),
-        5 => 
-        array (
-          0 => 
-          array (
-            'name' => 'destination',
-          ),
-          1 => 
-          array (
-            'name' => 'price',
-          ),
         ),
         6 => 
         array (
-          0 => 
-          array (
-            'name' => 'recordings',
-          ),
         ),
       ),
     ),

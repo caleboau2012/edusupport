@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.11, created on 2015-11-12 12:25:07
+<?php /* Smarty version 2.6.11, created on 2015-11-25 11:58:17
          compiled from include/MVC/View/tpls/Importvcard.tpl */ ?>
 
 <b><?php echo $this->_tpl_vars['MOD']['LBL_IMPORT_VCARDTEXT']; ?>

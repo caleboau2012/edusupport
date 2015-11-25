@@ -1,5 +1,5 @@
 <?php
-// created: 2015-11-09 13:44:24
+// created: 2015-11-23 17:00:12
 $unified_search_modules = array (
   'AOD_Index' => 
   array (
@@ -580,39 +580,6 @@ $unified_search_modules = array (
     'default' => false,
   ),
   'jjwg_Markers' => 
-  array (
-    'fields' => 
-    array (
-      'name' => 
-      array (
-        'query_type' => 'default',
-      ),
-    ),
-    'default' => false,
-  ),
-  'rolus_SMS_log' => 
-  array (
-    'fields' => 
-    array (
-      'name' => 
-      array (
-        'query_type' => 'default',
-      ),
-    ),
-    'default' => false,
-  ),
-  'rolus_Twilio_Account' => 
-  array (
-    'fields' => 
-    array (
-      'name' => 
-      array (
-        'query_type' => 'default',
-      ),
-    ),
-    'default' => false,
-  ),
-  'rolus_Twilio_Extension_Manager' => 
   array (
     'fields' => 
     array (

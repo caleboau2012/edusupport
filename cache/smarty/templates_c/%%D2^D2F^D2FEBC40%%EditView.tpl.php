@@ -1,7 +1,7 @@
-<?php /* Smarty version 2.6.11, created on 2015-11-09 13:47:54
+<?php /* Smarty version 2.6.11, created on 2015-11-23 16:52:11
          compiled from cache/modules/Leads/EditView.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('modifier', 'escape', 'cache/modules/Leads/EditView.tpl', 43, false),array('modifier', 'default', 'cache/modules/Leads/EditView.tpl', 54, false),array('modifier', 'strip_semicolon', 'cache/modules/Leads/EditView.tpl', 72, false),array('modifier', 'lookup', 'cache/modules/Leads/EditView.tpl', 187, false),array('modifier', 'count', 'cache/modules/Leads/EditView.tpl', 267, false),array('function', 'sugar_include', 'cache/modules/Leads/EditView.tpl', 49, false),array('function', 'counter', 'cache/modules/Leads/EditView.tpl', 55, false),array('function', 'sugar_getimagepath', 'cache/modules/Leads/EditView.tpl', 58, false),array('function', 'sugar_translate', 'cache/modules/Leads/EditView.tpl', 61, false),array('function', 'html_options', 'cache/modules/Leads/EditView.tpl', 78, false),array('function', 'sugar_getjspath', 'cache/modules/Leads/EditView.tpl', 1063, false),)), $this); ?>
+smarty_core_load_plugins(array('plugins' => array(array('modifier', 'escape', 'cache/modules/Leads/EditView.tpl', 42, false),array('modifier', 'default', 'cache/modules/Leads/EditView.tpl', 53, false),array('modifier', 'strip_semicolon', 'cache/modules/Leads/EditView.tpl', 71, false),array('modifier', 'lookup', 'cache/modules/Leads/EditView.tpl', 186, false),array('modifier', 'count', 'cache/modules/Leads/EditView.tpl', 266, false),array('function', 'sugar_include', 'cache/modules/Leads/EditView.tpl', 48, false),array('function', 'counter', 'cache/modules/Leads/EditView.tpl', 54, false),array('function', 'sugar_getimagepath', 'cache/modules/Leads/EditView.tpl', 57, false),array('function', 'sugar_translate', 'cache/modules/Leads/EditView.tpl', 60, false),array('function', 'html_options', 'cache/modules/Leads/EditView.tpl', 77, false),array('function', 'sugar_getjspath', 'cache/modules/Leads/EditView.tpl', 1062, false),)), $this); ?>
 
 
 <script>
@@ -55,7 +55,6 @@ $(node).sugarActionMenu();
 <input type="hidden" name="account_id" value="<?php if (isset ( $_REQUEST['account_id'] )):  echo $_REQUEST['account_id'];  else:  echo $this->_tpl_vars['bean']->account_id;  endif; ?>">   
 <input type="hidden" name="contact_id" value="<?php if (isset ( $_REQUEST['contact_id'] )):  echo $_REQUEST['contact_id'];  else:  echo $this->_tpl_vars['bean']->contact_id;  endif; ?>">   
 <input type="hidden" name="opportunity_id" value="<?php if (isset ( $_REQUEST['opportunity_id'] )):  echo $_REQUEST['opportunity_id'];  else:  echo $this->_tpl_vars['bean']->opportunity_id;  endif; ?>">   
-<input type="hidden" name="twilio_call_id" value="" />   
 <div class="action_buttons"><?php if ($this->_tpl_vars['bean']->aclAccess('save')): ?><input title="<?php echo $this->_tpl_vars['APP']['LBL_SAVE_BUTTON_TITLE']; ?>
 " accessKey="<?php echo $this->_tpl_vars['APP']['LBL_SAVE_BUTTON_KEY']; ?>
 " class="button primary" onclick="var _form = document.getElementById('EditView'); <?php if ($this->_tpl_vars['isDuplicate']): ?>_form.return_id.value=''; <?php endif; ?>_form.action.value='Save'; if(check_form('EditView'))SUGAR.ajaxUI.submitForm(_form);return false;" type="submit" name="button" value="<?php echo $this->_tpl_vars['APP']['LBL_SAVE_BUTTON_LABEL']; ?>

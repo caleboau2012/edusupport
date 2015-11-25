@@ -1,5 +1,5 @@
 <?php
-// created: 2015-11-09 14:24:00
+// created: 2015-11-23 16:50:05
 $dashletsFiles = array (
   'MyAccountsDashlet' => 
   array (
@@ -305,27 +305,6 @@ $dashletsFiles = array (
     'class' => 'MyProjectTaskDashlet',
     'meta' => 'modules/ProjectTask/Dashlets/MyProjectTaskDashlet/MyProjectTaskDashlet.meta.php',
     'module' => 'ProjectTask',
-  ),
-  'rolus_SMS_logDashlet' => 
-  array (
-    'file' => 'modules/rolus_SMS_log/Dashlets/rolus_SMS_logDashlet/rolus_SMS_logDashlet.php',
-    'class' => 'rolus_SMS_logDashlet',
-    'meta' => 'modules/rolus_SMS_log/Dashlets/rolus_SMS_logDashlet/rolus_SMS_logDashlet.meta.php',
-    'module' => 'rolus_SMS_log',
-  ),
-  'rolus_Twilio_AccountDashlet' => 
-  array (
-    'file' => 'modules/rolus_Twilio_Account/Dashlets/rolus_Twilio_AccountDashlet/rolus_Twilio_AccountDashlet.php',
-    'class' => 'rolus_Twilio_AccountDashlet',
-    'meta' => 'modules/rolus_Twilio_Account/Dashlets/rolus_Twilio_AccountDashlet/rolus_Twilio_AccountDashlet.meta.php',
-    'module' => 'rolus_Twilio_Account',
-  ),
-  'rolus_Twilio_Extension_ManagerDashlet' => 
-  array (
-    'file' => 'modules/rolus_Twilio_Extension_Manager/Dashlets/rolus_Twilio_Extension_ManagerDashlet/rolus_Twilio_Extension_ManagerDashlet.php',
-    'class' => 'rolus_Twilio_Extension_ManagerDashlet',
-    'meta' => 'modules/rolus_Twilio_Extension_Manager/Dashlets/rolus_Twilio_Extension_ManagerDashlet/rolus_Twilio_Extension_ManagerDashlet.meta.php',
-    'module' => 'rolus_Twilio_Extension_Manager',
   ),
   'SugarFeedDashlet' => 
   array (

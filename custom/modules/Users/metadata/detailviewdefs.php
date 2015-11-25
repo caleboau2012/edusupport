@@ -43,13 +43,6 @@ array (
             'customCode' => '{$USER_TYPE_READONLY}',
           ),
         ),
-        2 => 
-        array (
-          0 => 
-          array (
-            'name' => 'extension',
-          ),
-        ),
       ),
       'LBL_EMPLOYEE_INFORMATION' => 
       array (

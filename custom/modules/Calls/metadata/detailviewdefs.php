@@ -168,28 +168,9 @@ array (
             'customCode' => '{$fields.assigned_user_name.value}',
             'label' => 'LBL_ASSIGNED_TO',
           ),
-          1 => 
-          array (
-            'name' => 'source',
-          ),
-        ),
-        5 => 
-        array (
-          0 => 
-          array (
-            'name' => 'destination',
-          ),
-          1 => 
-          array (
-            'name' => 'price',
-          ),
         ),
         6 => 
         array (
-          0 => 
-          array (
-            'name' => 'recordings',
-          ),
         ),
       ),
       'lbl_reschedule_panel' => 

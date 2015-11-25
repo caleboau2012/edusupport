@@ -1,5 +1,5 @@
 <?php
-// created: 2015-11-09 13:44:27
+// created: 2015-11-23 16:49:55
 $mod_strings = array (
   'LBL_DELETE_USER_CONFIRM' => 'When the User record is deleted, the corresponding Employee record will also be deleted. After the user is deleted, any workflow definitions and reports involving the user might need to be updated.<br/><br/>Deleting a User record cannot be undone.',
   'LBL_DELETE_GROUP_CONFIRM' => 'Are you sure you want to delete this Group User? Click OK to delete the User record.<br/>After clicking OK, you will be given the ability to reassign records assigned to the Group User to another user.',
@@ -507,9 +507,6 @@ If you are not setting up Inbound Email, please clear all fields in that section
   'LBL_QUICK_CALL' => 'Log Call',
   'LBL_QUICK_TASK' => 'Create Task',
   'LBL_ENABLE_NOTIFICATIONS' => 'Enable Desktop Notifications',
-  'LBL_LOGGED_IN' => 'User Login Status',
-  'LBL_AVAILABILITY' => 'User Availability',
-  'LBL_EXTENSION' => 'Call Extension',
   'LBL_LIST_NONINHERITABLE' => 'Not Inheritable',
   'LBL_PRIMARY_GROUP' => 'Primary Group',
 );

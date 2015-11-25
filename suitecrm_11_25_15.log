@@ -1,0 +1,3 @@
+11/25/15 09:01:46 [5340][-none-][FATAL] SECURITY: User authentication for alero failed
+11/25/15 09:01:46 [5340][-none-][FATAL] FAILED LOGIN:attempts[1] - alero
+11/25/15 13:45:13 [2844][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: Invalid address: 
