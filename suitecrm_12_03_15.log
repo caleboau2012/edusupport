@@ -1,0 +1,16 @@
+12/03/15 11:33:52 [5612][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: Invalid address: Www.@aremuaderonke.Com
+12/03/15 13:46:07 [2848][e00898c4-bdef-0f5f-4b9d-563b23ae83e8][FATAL] SugarPHPMailer encountered an error: Invalid address: 
+12/03/15 15:11:10 [2848][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: Invalid address: 
+12/03/15 15:14:34 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: support@oaucdl.edu.ng
+12/03/15 15:14:45 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10060 Reply: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ 
+12/03/15 15:14:45 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: support@oaucdl.edu.ng
+12/03/15 15:14:55 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10060 Reply: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ 
+12/03/15 15:14:55 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: support@oaucdl.edu.ng
+12/03/15 15:15:06 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10060 Reply: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ 
+12/03/15 15:15:06 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: support@oaucdl.edu.ng
+12/03/15 15:15:17 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SMTP -> ERROR: Failed to connect to server. Code: 10060 Reply: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ 
+12/03/15 15:15:17 [4008][6199fff7-55c8-f615-6f88-560e4bbb5cd7][FATAL] SugarPHPMailer encountered an error: The following From address failed: support@oaucdl.edu.ng
