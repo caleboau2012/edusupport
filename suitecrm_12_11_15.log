@@ -1,0 +1,13 @@
+12/11/15 09:08:56 [7348][-none-][FATAL] SECURITY: User authentication for ifeoladele failed
+12/11/15 09:08:56 [7348][-none-][FATAL] FAILED LOGIN:attempts[1] - ifeoladele
+12/11/15 09:09:18 [7268][-none-][FATAL] SECURITY: User authentication for ife.oladele failed
+12/11/15 09:09:18 [7268][-none-][FATAL] FAILED LOGIN:attempts[1] - ife.oladele
+12/11/15 09:09:36 [7268][-none-][FATAL] SECURITY: User authentication for ifeoladele failed
+12/11/15 09:09:36 [7268][-none-][FATAL] FAILED LOGIN:attempts[1] - ifeoladele
+12/11/15 09:24:10 [7348][-none-][FATAL] FAILED LOGIN:attempts[1] - g
+12/11/15 09:40:14 [9968][-none-][FATAL] SECURITY: User authentication for ebun.soetan failed
+12/11/15 09:40:14 [9968][-none-][FATAL] FAILED LOGIN:attempts[1] - ebun.soetan
+12/11/15 09:40:37 [9968][-none-][FATAL] SECURITY: User authentication for ebun.soetan failed
+12/11/15 09:40:37 [9968][-none-][FATAL] FAILED LOGIN:attempts[1] - ebun.soetan
+12/11/15 10:53:56 [4296][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: Invalid address: 
+12/11/15 12:34:13 [3116][364bf5bc-ff62-c92f-96a3-55800394c989][FATAL] Exception in Controller: Index doesn't exists in the specified directory.
