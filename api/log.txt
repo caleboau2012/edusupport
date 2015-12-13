@@ -1,20 +1,20 @@
-1449855825Array
+1449929665Array
 (
     [page_id] => c424d059-c8dd-43df-b612-e49fe7bac0d5
     [page_name] => Jambites
     [variant] => a
     [page_url] => http://register.online.oaucdl.edu.ng/
-    [data_json] => {"first_name":["Bankole"],"last_name":["Adekunle"],"email_address":["banky4u2001@gmail.com"],"phone_number":["08025844746"],"how_did_you_hear_about_us":["Twitter"],"other":["Radio"],"ip_address":["105.112.19.136"],"time_submitted":["05:44 PM UTC"],"date_submitted":["2015-12-11"]}
+    [data_json] => {"first_name":["mkpuruoma"],"last_name":["ekpemu"],"email_address":["fruityekpemu@gmail.com"],"phone_number":["08174044186"],"how_did_you_hear_about_us":["Facebook"],"other":["friend"],"ip_address":["93.186.31.114"],"time_submitted":["02:15 PM UTC"],"date_submitted":["2015-12-12"]}
     [data_xml] => <?xml version='1.0'?>
 <form_data>
-  <first_name>Bankole</first_name>
-  <last_name>Adekunle</last_name>
-  <email_address>banky4u2001@gmail.com</email_address>
-  <phone_number>08025844746</phone_number>
-  <how_did_you_hear_about_us>Twitter</how_did_you_hear_about_us>
-  <other>Radio</other>
-  <ip_address>105.112.19.136</ip_address>
-  <time_submitted>05:44 PM UTC</time_submitted>
-  <date_submitted>2015-12-11</date_submitted>
+  <first_name>mkpuruoma</first_name>
+  <last_name>ekpemu</last_name>
+  <email_address>fruityekpemu@gmail.com</email_address>
+  <phone_number>08174044186</phone_number>
+  <how_did_you_hear_about_us>Facebook</how_did_you_hear_about_us>
+  <other>friend</other>
+  <ip_address>93.186.31.114</ip_address>
+  <time_submitted>02:15 PM UTC</time_submitted>
+  <date_submitted>2015-12-12</date_submitted>
 </form_data>
 )
