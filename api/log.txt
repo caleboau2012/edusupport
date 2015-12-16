@@ -1,20 +1,20 @@
-1450112011Array
+1450230461Array
 (
-    [page_id] => cd922c07-f19a-453f-b1f8-d0a74ff08378
-    [page_name] => Nursing
+    [page_id] => 6c0c6a8a-1fa1-4496-904b-10e47eff85ce
+    [page_name] => Workers
     [variant] => a
-    [page_url] => http://register.online.oaucdl.edu.ng/nursing
-    [data_json] => {"first_name":["Israei"],"last_name":["Balogun"],"email_address":["isrfaith@gmail.com"],"phone_number":["08058936660"],"how_did_you_hear_about_us":["Google Search"],"other":["nursingworldnigeria"],"ip_address":["8.37.235.222"],"time_submitted":["04:54 PM UTC"],"date_submitted":["2015-12-14"]}
+    [page_url] => http://register.online.oaucdl.edu.ng/wk
+    [data_json] => {"first_name":["Tikolo"],"last_name":["Olatunde Ilemobola"],"email_address":["Tikochris@yahoo.com"],"phone_number":["08034470073"],"how_did_you_hear_about_us":["Google Search"],"other":[""],"ip_address":["82.145.222.253"],"time_submitted":["01:48 AM UTC"],"date_submitted":["2015-12-16"]}
     [data_xml] => <?xml version='1.0'?>
 <form_data>
-  <first_name>Israei</first_name>
-  <last_name>Balogun</last_name>
-  <email_address>isrfaith@gmail.com</email_address>
-  <phone_number>08058936660</phone_number>
+  <first_name>Tikolo</first_name>
+  <last_name>Olatunde Ilemobola</last_name>
+  <email_address>Tikochris@yahoo.com</email_address>
+  <phone_number>08034470073</phone_number>
   <how_did_you_hear_about_us>Google Search</how_did_you_hear_about_us>
-  <other>nursingworldnigeria</other>
-  <ip_address>8.37.235.222</ip_address>
-  <time_submitted>04:54 PM UTC</time_submitted>
-  <date_submitted>2015-12-14</date_submitted>
+  <other></other>
+  <ip_address>82.145.222.253</ip_address>
+  <time_submitted>01:48 AM UTC</time_submitted>
+  <date_submitted>2015-12-16</date_submitted>
 </form_data>
 )
