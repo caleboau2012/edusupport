@@ -1,20 +1,20 @@
-1450285651Array
+1450403270Array
 (
-    [page_id] => cd922c07-f19a-453f-b1f8-d0a74ff08378
-    [page_name] => Nursing
+    [page_id] => c424d059-c8dd-43df-b612-e49fe7bac0d5
+    [page_name] => Jambites
     [variant] => a
-    [page_url] => http://register.online.oaucdl.edu.ng/nursing
-    [data_json] => {"first_name":["Amumrra"],"last_name":["Byrne"],"email_address":["AMumrraByrne@gmail.com"],"phone_number":["09250613049"],"how_did_you_hear_about_us":["Google Search"],"other":[""],"ip_address":["45.112.177.13"],"time_submitted":["05:08 PM UTC"],"date_submitted":["2015-12-16"]}
+    [page_url] => http://register.online.oaucdl.edu.ng/
+    [data_json] => {"first_name":["samuel"],"last_name":["damilare"],"email_address":["darexguy@gmail.com"],"phone_number":["08074438039"],"how_did_you_hear_about_us":["Radio"],"other":[""],"ip_address":["82.145.216.229"],"time_submitted":["01:48 AM UTC"],"date_submitted":["2015-12-18"]}
     [data_xml] => <?xml version='1.0'?>
 <form_data>
-  <first_name>Amumrra</first_name>
-  <last_name>Byrne</last_name>
-  <email_address>AMumrraByrne@gmail.com</email_address>
-  <phone_number>09250613049</phone_number>
-  <how_did_you_hear_about_us>Google Search</how_did_you_hear_about_us>
+  <first_name>samuel</first_name>
+  <last_name>damilare</last_name>
+  <email_address>darexguy@gmail.com</email_address>
+  <phone_number>08074438039</phone_number>
+  <how_did_you_hear_about_us>Radio</how_did_you_hear_about_us>
   <other></other>
-  <ip_address>45.112.177.13</ip_address>
-  <time_submitted>05:08 PM UTC</time_submitted>
-  <date_submitted>2015-12-16</date_submitted>
+  <ip_address>82.145.216.229</ip_address>
+  <time_submitted>01:48 AM UTC</time_submitted>
+  <date_submitted>2015-12-18</date_submitted>
 </form_data>
 )
