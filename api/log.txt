@@ -1,20 +1,20 @@
-1450660274Array
+1450693229Array
 (
     [page_id] => cd922c07-f19a-453f-b1f8-d0a74ff08378
     [page_name] => Nursing
     [variant] => a
     [page_url] => http://register.online.oaucdl.edu.ng/nursing
-    [data_json] => {"first_name":["Lasisi"],"last_name":["Aina Mutiat"],"email_address":["aina_joyce@yahoo.com"],"phone_number":["07038223688, 08095496628"],"how_did_you_hear_about_us":["Google Search"],"other":[""],"ip_address":["107.167.112.18"],"time_submitted":["01:12 AM UTC"],"date_submitted":["2015-12-21"]}
+    [data_json] => {"first_name":["Okoye"],"last_name":["Jane"],"email_address":["maryjaneokoye25@yahoo.com"],"phone_number":["07039226566"],"how_did_you_hear_about_us":["Facebook"],"other":["Whatsapp"],"ip_address":["82.145.208.208"],"time_submitted":["10:21 AM UTC"],"date_submitted":["2015-12-21"]}
     [data_xml] => <?xml version='1.0'?>
 <form_data>
-  <first_name>Lasisi</first_name>
-  <last_name>Aina Mutiat</last_name>
-  <email_address>aina_joyce@yahoo.com</email_address>
-  <phone_number>07038223688, 08095496628</phone_number>
-  <how_did_you_hear_about_us>Google Search</how_did_you_hear_about_us>
-  <other></other>
-  <ip_address>107.167.112.18</ip_address>
-  <time_submitted>01:12 AM UTC</time_submitted>
+  <first_name>Okoye</first_name>
+  <last_name>Jane</last_name>
+  <email_address>maryjaneokoye25@yahoo.com</email_address>
+  <phone_number>07039226566</phone_number>
+  <how_did_you_hear_about_us>Facebook</how_did_you_hear_about_us>
+  <other>Whatsapp</other>
+  <ip_address>82.145.208.208</ip_address>
+  <time_submitted>10:21 AM UTC</time_submitted>
   <date_submitted>2015-12-21</date_submitted>
 </form_data>
 )
