@@ -1,20 +1,20 @@
-1450693229Array
+1450828318Array
 (
-    [page_id] => cd922c07-f19a-453f-b1f8-d0a74ff08378
-    [page_name] => Nursing
+    [page_id] => 6c0c6a8a-1fa1-4496-904b-10e47eff85ce
+    [page_name] => Workers
     [variant] => a
-    [page_url] => http://register.online.oaucdl.edu.ng/nursing
-    [data_json] => {"first_name":["Okoye"],"last_name":["Jane"],"email_address":["maryjaneokoye25@yahoo.com"],"phone_number":["07039226566"],"how_did_you_hear_about_us":["Facebook"],"other":["Whatsapp"],"ip_address":["82.145.208.208"],"time_submitted":["10:21 AM UTC"],"date_submitted":["2015-12-21"]}
+    [page_url] => http://register.online.oaucdl.edu.ng/wk
+    [data_json] => {"first_name":["Benjamin"],"last_name":["Odedina"],"email_address":["benjaminodedina@gmail.com"],"phone_number":["07061117655"],"how_did_you_hear_about_us":["Blog Post"],"other":[""],"ip_address":["105.112.18.15"],"time_submitted":["11:52 PM UTC"],"date_submitted":["2015-12-22"]}
     [data_xml] => <?xml version='1.0'?>
 <form_data>
-  <first_name>Okoye</first_name>
-  <last_name>Jane</last_name>
-  <email_address>maryjaneokoye25@yahoo.com</email_address>
-  <phone_number>07039226566</phone_number>
-  <how_did_you_hear_about_us>Facebook</how_did_you_hear_about_us>
-  <other>Whatsapp</other>
-  <ip_address>82.145.208.208</ip_address>
-  <time_submitted>10:21 AM UTC</time_submitted>
-  <date_submitted>2015-12-21</date_submitted>
+  <first_name>Benjamin</first_name>
+  <last_name>Odedina</last_name>
+  <email_address>benjaminodedina@gmail.com</email_address>
+  <phone_number>07061117655</phone_number>
+  <how_did_you_hear_about_us>Blog Post</how_did_you_hear_about_us>
+  <other></other>
+  <ip_address>105.112.18.15</ip_address>
+  <time_submitted>11:52 PM UTC</time_submitted>
+  <date_submitted>2015-12-22</date_submitted>
 </form_data>
 )
