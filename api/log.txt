@@ -1,20 +1,20 @@
-1450828318Array
+1450919245Array
 (
     [page_id] => 6c0c6a8a-1fa1-4496-904b-10e47eff85ce
     [page_name] => Workers
     [variant] => a
     [page_url] => http://register.online.oaucdl.edu.ng/wk
-    [data_json] => {"first_name":["Benjamin"],"last_name":["Odedina"],"email_address":["benjaminodedina@gmail.com"],"phone_number":["07061117655"],"how_did_you_hear_about_us":["Blog Post"],"other":[""],"ip_address":["105.112.18.15"],"time_submitted":["11:52 PM UTC"],"date_submitted":["2015-12-22"]}
+    [data_json] => {"first_name":["njoku ugochi"],"last_name":["gift"],"email_address":["njokuugochi@ymail.com"],"phone_number":["08031348139"],"how_did_you_hear_about_us":["SMS"],"other":["email"],"ip_address":["8.37.235.218"],"time_submitted":["01:08 AM UTC"],"date_submitted":["2015-12-24"]}
     [data_xml] => <?xml version='1.0'?>
 <form_data>
-  <first_name>Benjamin</first_name>
-  <last_name>Odedina</last_name>
-  <email_address>benjaminodedina@gmail.com</email_address>
-  <phone_number>07061117655</phone_number>
-  <how_did_you_hear_about_us>Blog Post</how_did_you_hear_about_us>
-  <other></other>
-  <ip_address>105.112.18.15</ip_address>
-  <time_submitted>11:52 PM UTC</time_submitted>
-  <date_submitted>2015-12-22</date_submitted>
+  <first_name>njoku ugochi</first_name>
+  <last_name>gift</last_name>
+  <email_address>njokuugochi@ymail.com</email_address>
+  <phone_number>08031348139</phone_number>
+  <how_did_you_hear_about_us>SMS</how_did_you_hear_about_us>
+  <other>email</other>
+  <ip_address>8.37.235.218</ip_address>
+  <time_submitted>01:08 AM UTC</time_submitted>
+  <date_submitted>2015-12-24</date_submitted>
 </form_data>
 )

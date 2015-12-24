@@ -1,0 +1,18 @@
+12/23/15 12:03:04 [3808][-none-][FATAL] SECURITY: User authentication for ife.oladele failed
+12/23/15 12:03:04 [3808][-none-][FATAL] FAILED LOGIN:attempts[1] - ife.oladele
+12/23/15 12:03:16 [3808][-none-][FATAL] SECURITY: User authentication for ife.oladele failed
+12/23/15 12:03:16 [3808][-none-][FATAL] FAILED LOGIN:attempts[1] - ife.oladele
+12/23/15 12:08:02 [8348][-none-][FATAL] SECURITY: User authentication for ife.oladele failed
+12/23/15 12:08:02 [8348][-none-][FATAL] FAILED LOGIN:attempts[1] - ife.oladele
+12/23/15 12:08:26 [3808][-none-][FATAL] SECURITY: User authentication for ifeoladele failed
+12/23/15 12:08:26 [3808][-none-][FATAL] FAILED LOGIN:attempts[1] - ifeoladele
+12/23/15 12:09:04 [3808][-none-][FATAL] SECURITY: User authentication for ifeoladele failed
+12/23/15 12:09:04 [3808][-none-][FATAL] FAILED LOGIN:attempts[1] - ifeoladele
+12/23/15 12:09:12 [3808][-none-][FATAL] SECURITY: User authentication for ife.oladele failed
+12/23/15 12:09:12 [3808][-none-][FATAL] FAILED LOGIN:attempts[1] - ife.oladele
+12/23/15 12:10:03 [8348][-none-][FATAL] SECURITY: User authentication for ifeoluwa failed
+12/23/15 12:10:03 [8348][-none-][FATAL] FAILED LOGIN:attempts[1] - ifeoluwa
+12/23/15 14:21:52 [4792][4bacd7c6-3f41-8605-7c92-557d73db63dd][FATAL] Exception in Controller: Index doesn't exists in the specified directory.
+12/23/15 14:22:14 [9088][4bacd7c6-3f41-8605-7c92-557d73db63dd][FATAL] Exception in Controller: Index doesn't exists in the specified directory.
+12/23/15 17:02:32 [10548][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: Invalid address: 
+12/23/15 17:02:36 [10548][53f59826-cc14-1aa5-7f55-557e8e9c0d20][FATAL] SugarPHPMailer encountered an error: Invalid address: 
